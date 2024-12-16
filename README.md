@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Juanecos
-- 👀 I’m interested in electronic and Dev
-- 🌱 I’m currently learning about VisualCode
+- 👀 I’m interested in dev
+- 🌱 I’m currently learning about web development
 - 💞️ I’m looking to collaborate on a future
-- 📫 How to reach me: dont reach me on instagram reach me on home
+- 📫 How to reach me: juanecos97@hotmai.com
 
 <!---
 Juanecos/Juanecos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
