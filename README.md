@@ -1,14 +1,14 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Juan Camilo
 ====================================================================================================================================
 
-Desarrollador web fullstack
+FullStack Developer
 ---------------------------
 
 💻 Full-Stack Web Developer with over a year and a half of experience designing, building, and maintaining high-impact web applications. I have led and contributed to large-scale projects, leveraging modern frameworks such as Django, Laravel, Express.js, and React.
 
 🚀 Passionate about learning and adopting new technologies, I turn ideas into functional, scalable, and user-focused solutions.
 
-* ✉️  You can contact me at [here](mailto:here)
+* ✉️  You can contact me at [here](mailto:juanecos97@hotmail.com)
 * 🧠  I'm currently learning aws deployment app and databases
 * 👥  I'm looking to collaborate on freelance
 * 💬  Ask me about I use archlinux btw
